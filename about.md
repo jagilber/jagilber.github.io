@@ -6,6 +6,7 @@ Location: Atlanta, Georgia
 [linkedin](https://www.linkedin.com/in/jason-gilbertson-35901112/)
 
 ### Summary of Qualifications  
+
 * Knowledge in Azure, Microsoft Windows OS, and Microsoft Infrastructure components  
 * Ability to read, debug, and write in multiple programming languages  
 * Enterprise level technical and project design skills  
@@ -14,6 +15,7 @@ Location: Atlanta, Georgia
 * Team Leader with demonstrated ability to complete assigned tasks on time  
 
 ### Key Accomplishments  
+
 * Subject Matter Expert for Service Fabric  
 * Provide automated way of formatting and ingesting service fabric log data for analysis with collectsfdata.exe  
 * Team Lead / Technical Advisor Microsoft RDS POD  
@@ -29,6 +31,7 @@ Location: Atlanta, Georgia
 * Served as core member of Windows Server Engineering Team responsible for over 1500 servers  
 
 ### Technical Summary  
+
 * Operating Systems - Windows all versions, some Linux  
 * Programming - C#, PowerShell, some C, git, ARM templates  
 * Debugging - C#, C++, C, PowerShell, ARM templates  
@@ -38,6 +41,7 @@ Location: Atlanta, Georgia
 * Other - json, rest, async, threading, tasks, xml, xaml, some yaml  
 
 ### Experience  
+
 sr escalation engineer / support escalation engineer  
 Microsoft  
 September 2017 - Present Charlotte, Atlanta Georgia  
@@ -49,6 +53,7 @@ September 2017 - Present Charlotte, Atlanta Georgia
 * Work with product group on supportability issues and features  
 
 #### **technical advisor**  
+
 Microsoft  
 January 2016 -  September 2017 Charlotte, North Carolina Area  
 * Technical Advisor / Team Lead for Remote Desktop Services POD for North America  
@@ -62,6 +67,7 @@ January 2016 -  September 2017 Charlotte, North Carolina Area
 * Created utilities / scripts for internal and external use  
 
 #### **support escalation engineer**  
+
 Microsoft  
 March 2014 - January 2016 (1 year 11 months) Charlotte, North Carolina Area  
 * Windows Server Performance / Reliability Team  
@@ -75,6 +81,7 @@ March 2014 - January 2016 (1 year 11 months) Charlotte, North Carolina Area
 * Worked on internal projects improving case management  
 
 ### Education  
+
 Clayton State University  
 Bachelor of Applied Science (B.A.Sc.), Technology Management  
 
@@ -82,6 +89,7 @@ Clayton State University
 Associate of Science (A.S.), Avionics Maintenance Technology / Technician  
 
 ### Interests  
+
 * developing / debugging code  
 * technology  
 * architecture  
