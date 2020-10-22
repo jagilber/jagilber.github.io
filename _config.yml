@@ -1,4 +1,3 @@
-# https://nicolas-van.github.io/easy-markdown-to-github-pages/#:~:text=Any%20markdown%20file%20in%20your%20repository%20will%20display,a%20relative%20path%20to%20the%20other%20Markdown%20file.
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -6,3 +5,4 @@ relative_links:
   collections: true
 include:
   - README.md
+  - about.md
