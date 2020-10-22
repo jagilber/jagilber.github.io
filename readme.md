@@ -1,10 +1,10 @@
 Jason Gilbertson  
 jagilber  
 Company: Microsoft  
-Current Position: sr escalation engineer Azure Developer Support  
+Position: sr escalation engineer Azure Developer Support  
 Location: Atlanta, Georgia  
 
-Summary of Qualifications:  
+### Summary of Qualifications:  
 * Knowledge in Azure, Microsoft Windows OS, and Microsoft Infrastructure components  
 * Ability to read, debug, and write in multiple programming languages  
 * Enterprise level technical and project design skills  
@@ -12,7 +12,7 @@ Summary of Qualifications:
 * Hardware, software, virtualization and network troubleshooting 
 * Team Leader with demonstrated ability to complete assigned tasks on time  
 
-Key Accomplishments:  
+### Key Accomplishments:  
 * Subject Matter Expert for Service Fabric  
 * Provide automated way of formatting and ingesting service fabric log data for analysis with collectsfdata.exe  
 * Team Lead / Technical Advisor Microsoft RDS POD  
@@ -27,7 +27,7 @@ Key Accomplishments:
 * Designed and maintained server build  
 * Served as core member of Windows Server Engineering Team responsible for over 1500 servers  
 
-Technical Summary:  
+### Technical Summary:  
 * Operating Systems - Windows all versions, some Linux  
 * Programming - C#, PowerShell, some C, git, ARM templates  
 * Debugging - C#, C++, C, PowerShell, ARM templates  
@@ -36,7 +36,7 @@ Technical Summary:
 * External tools - visual studio, vscode, wireshark / netmon, git, postman, dotPeek, Azure devops, log analytics, sysinternals tools  
 * Other - json, rest, async, threading, tasks, xml, xaml, some yaml  
 
-Experience:  
+### Experience:  
 sr escalation engineer / support escalation engineer  
 Microsoft  
 September 2017 - Present Charlotte, Atlanta Georgia  
@@ -46,8 +46,8 @@ September 2017 - Present Charlotte, Atlanta Georgia
 * Working on service fabric utility CollectSFData / multiple internal and external scripts / documentation for public service fabric git TSG  
 * Provide developer support, debugging, trace analysis, and direction for case resolution  
 * Work with product group on supportability issues and features  
- 
-technical advisor  
+
+#### **technical advisor**  
 Microsoft  
 January 2016 -  September 2017 Charlotte, North Carolina Area  
 * Technical Advisor / Team Lead for Remote Desktop Services POD for North America  
@@ -59,8 +59,8 @@ January 2016 -  September 2017 Charlotte, North Carolina Area
 * Mentored, document, and provide training in and across teams for RDS  
 * Provided debugging, trace analysis, and direction for case resolution  
 * Created utilities / scripts for internal and external use  
- 
-support escalation engineer  
+
+#### **support escalation engineer**  
 Microsoft  
 March 2014 - January 2016 (1 year 11 months) Charlotte, North Carolina Area  
 * Windows Server Performance / Reliability Team  
@@ -72,15 +72,15 @@ March 2014 - January 2016 (1 year 11 months) Charlotte, North Carolina Area
 * Worked across teams to improve supportability of Remote Desktop Services  
 * Wrote blogs focusing Remote Desktop Services deployments and support  
 * Worked on internal projects improving case management  
- 
-Education:  
+
+### Education:  
 Clayton State University  
 Bachelor of Applied Science (B.A.Sc.), Technology Management  
 
 Clayton State University  
 Associate of Science (A.S.), Avionics Maintenance Technology / Technician  
 
-Interests:  
+### Interests:  
 * developing / debugging code  
 * technology  
 * architecture  
@@ -88,37 +88,37 @@ Interests:
 * cars  
 * aviation  
 
-Projects:  
+### Projects:  
 Github  
-[https://github.com/jagilber](https://github.com/jagilber)  
-[https://github.com/Microsoft/CollectServiceFabricData](https://github.com/Microsoft/CollectServiceFabricData)  
-[https://github.com/Azure/Service-Fabric-Troubleshooting-Guides](https://github.com/Azure/Service-Fabric-Troubleshooting-Guides)  
+https://github.com/jagilber  
+https://github.com/Microsoft/CollectServiceFabricData  
+https://github.com/Azure/Service-Fabric-Troubleshooting-Guides  
 
-CollectSFData  
+#### **CollectSFData**  
 C# multithread with REST, Async, custom task scheduler currently used  internally by CSS and PG to download detailed service fabric logs from Azure storage accounts.  
 Files can optionally be formatted into json for ingest into log analytics or kusto for analysis.  
 https://github.com/Microsoft/CollectServiceFabricData  
 
-AfVmPowerMonitor  
+#### **AfVmPowerMonitor**  
 C# Azure Function v2 to monitor, report, and take action to shutdown IaaS virtual machines and kusto clusters after specified enumerations.  
 https://github.com/jagilber/afVmPowerMonitor  
 
-Azure Quickstart Templates for Remote Desktop Services  
+#### **Azure Quickstart Templates for Remote Desktop Services**  
 https://github.com/Azure/rds-templates  
 
-TextFilter  
+#### **TextFilter**  
 lightweight text parsing utility to quickly analyze logs with string and regex filters. Filters can be shared for multiple users allowing quick sharing of information across team for newly identified issues.  
 https://github.com/jasonagilbertson/textFilter  
 
-CDFMonitor  
+#### **CDFMonitor**  
 Comprehensive ETW tracing utility used for complete local and remote tracing management for Citrix issues.  
 https://github.com/citrix/CDFMonitor  
 
-PowerShell scripts  
+#### **PowerShell scripts**  
 Sample collection of PowerShell scripts written since joining Microsoft. The scripts are mostly utility scripts to perform a certain action for troubleshooting Remote Desktop Services environments.  
 https://github.com/jagilber/powershellScripts  
 
-Certifications:  
+### Certifications:  
 MCSA: Cloud Platform - Certified 2017  
 Exam 534: Architecting Microsoft Azure Solutions  
 Exam 533: Implementing Microsoft Azure Infrastructure Solutions  
@@ -126,6 +126,6 @@ Microsoft Certified Professional
 Exam 410: Installing and Configuring Windows Server 2012  
 Microsoft Certified Technology Specialist Windows Internals  
 
-Awards  
+### Awards  
 * Microsoft CSS Peak Performer 2017  
 * Citrix Thomas Edison Award 2012  
