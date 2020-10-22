@@ -4,7 +4,7 @@ Company: Microsoft
 Position: sr escalation engineer Azure Developer Support  
 Location: Atlanta, Georgia  
 
-### Summary of Qualifications:  
+### Summary of Qualifications  
 * Knowledge in Azure, Microsoft Windows OS, and Microsoft Infrastructure components  
 * Ability to read, debug, and write in multiple programming languages  
 * Enterprise level technical and project design skills  
@@ -12,7 +12,7 @@ Location: Atlanta, Georgia
 * Hardware, software, virtualization and network troubleshooting 
 * Team Leader with demonstrated ability to complete assigned tasks on time  
 
-### Key Accomplishments:  
+### Key Accomplishments  
 * Subject Matter Expert for Service Fabric  
 * Provide automated way of formatting and ingesting service fabric log data for analysis with collectsfdata.exe  
 * Team Lead / Technical Advisor Microsoft RDS POD  
@@ -27,7 +27,7 @@ Location: Atlanta, Georgia
 * Designed and maintained server build  
 * Served as core member of Windows Server Engineering Team responsible for over 1500 servers  
 
-### Technical Summary:  
+### Technical Summary  
 * Operating Systems - Windows all versions, some Linux  
 * Programming - C#, PowerShell, some C, git, ARM templates  
 * Debugging - C#, C++, C, PowerShell, ARM templates  
@@ -36,7 +36,7 @@ Location: Atlanta, Georgia
 * External tools - visual studio, vscode, wireshark / netmon, git, postman, dotPeek, Azure devops, log analytics, sysinternals tools  
 * Other - json, rest, async, threading, tasks, xml, xaml, some yaml  
 
-### Experience:  
+### Experience  
 sr escalation engineer / support escalation engineer  
 Microsoft  
 September 2017 - Present Charlotte, Atlanta Georgia  
@@ -73,14 +73,14 @@ March 2014 - January 2016 (1 year 11 months) Charlotte, North Carolina Area
 * Wrote blogs focusing Remote Desktop Services deployments and support  
 * Worked on internal projects improving case management  
 
-### Education:  
+### Education  
 Clayton State University  
 Bachelor of Applied Science (B.A.Sc.), Technology Management  
 
 Clayton State University  
 Associate of Science (A.S.), Avionics Maintenance Technology / Technician  
 
-### Interests:  
+### Interests  
 * developing / debugging code  
 * technology  
 * architecture  
@@ -88,7 +88,7 @@ Associate of Science (A.S.), Avionics Maintenance Technology / Technician
 * cars  
 * aviation  
 
-### Projects:  
+### Projects  
 
 #### **Github**  
 
@@ -126,7 +126,7 @@ Comprehensive ETW tracing utility used for complete local and remote tracing man
 Sample collection of PowerShell scripts written since joining Microsoft. The scripts are mostly utility scripts to perform a certain action for troubleshooting Remote Desktop Services environments.  
 https://github.com/jagilber/powershellScripts  
 
-### Certifications:  
+### Certifications  
 
 MCSA: Cloud Platform - Certified 2017  
 Exam 534: Architecting Microsoft Azure Solutions  
