@@ -3,7 +3,7 @@ jagilber
 Company: Microsoft  
 Position: sr escalation engineer Azure Developer Support  
 Location: Atlanta, Georgia  
-[linkedin](https://www.linkedin.com/in/jason-gilbertson-35901112/)
+[linkedin](https://www.linkedin.com/in/jason-gilbertson)
 
 ### Summary of Qualifications  
 
