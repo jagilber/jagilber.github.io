@@ -42,10 +42,11 @@ Location: Atlanta, Georgia
 
 ### Experience  
 
-sr escalation engineer / support escalation engineer  
+#### **sr escalation engineer**
+
 Microsoft  
 September 2017 - Present Charlotte, Atlanta Georgia  
-* sr escalation engineer for Azure PaaS developer support 
+* sr escalation engineer for Azure PaaS developer support  
 * Subject Matter Expert service fabric, Azure ARM  
 * Secondary skills in Azure IaaS, Azure storage, Azure Service Bus, Azure EventHub, network  
 * Working on service fabric utility CollectSFData / multiple internal and external scripts / documentation for public service fabric git TSG  
