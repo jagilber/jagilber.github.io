@@ -3,6 +3,7 @@ jagilber
 Company: Microsoft  
 Position: sr escalation engineer Azure Developer Support  
 Location: Atlanta, Georgia  
+[linkedin](https://www.linkedin.com/in/jason-gilbertson-35901112/)
 
 ### Summary of Qualifications  
 * Knowledge in Azure, Microsoft Windows OS, and Microsoft Infrastructure components  
@@ -124,7 +125,8 @@ Comprehensive ETW tracing utility used for complete local and remote tracing man
 #### **PowerShell scripts**  
 
 Sample collection of PowerShell scripts written since joining Microsoft. The scripts are mostly utility scripts to perform a certain action for troubleshooting Remote Desktop Services environments.  
-https://github.com/jagilber/powershellScripts  
+
+[https://github.com/jagilber/powershellScripts](https://github.com/jagilber/powershellScripts)  
 
 ### Certifications  
 
