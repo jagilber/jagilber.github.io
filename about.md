@@ -90,9 +90,9 @@ Interests:
 
 Projects:  
 Github  
-https://github.com/jagilber  
-https://github.com/Microsoft/CollectServiceFabricData  
-https://github.com/Azure/Service-Fabric-Troubleshooting-Guides  
+[https://github.com/jagilber](https://github.com/jagilber)  
+[https://github.com/Microsoft/CollectServiceFabricData](https://github.com/Microsoft/CollectServiceFabricData)  
+[https://github.com/Azure/Service-Fabric-Troubleshooting-Guides](https://github.com/Azure/Service-Fabric-Troubleshooting-Guides)  
 
 CollectSFData  
 C# multithread with REST, Async, custom task scheduler currently used  internally by CSS and PG to download detailed service fabric logs from Azure storage accounts.  
