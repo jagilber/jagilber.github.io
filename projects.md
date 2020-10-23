@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-# Projects
-
 
 ## Github repo contributions  
 
@@ -13,7 +11,7 @@ layout: default
 
 ### [CollectSFData](https://github.com/Microsoft/CollectServiceFabricData)  
 
-C# multithread with REST, Async, custom task scheduler currently used  internally by CSS and PG to download detailed service fabric logs from Azure storage accounts.  
+C# multithread with REST, Async, custom task scheduler currently used internally by CSS and PG to download detailed service fabric logs from Azure storage accounts.  
 Files can optionally be formatted into json for ingest into log analytics or kusto for analysis.  
 
 ### [TextFilter](https://github.com/jasonagilbertson/textFilter)  
