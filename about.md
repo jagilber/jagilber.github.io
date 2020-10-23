@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Jason Gilbertson  
 jagilber  
 Company: Microsoft  
