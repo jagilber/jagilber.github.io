@@ -152,7 +152,7 @@ dt {
 }
 
 ul li {
-  list-style: decimal;
+  list-style: outside;
 }
 /*
 ul li {
@@ -167,7 +167,7 @@ blockquote {
 }
 
 pre {
-  background: rgba(0, 0, 0, 0.9);
+  //background: rgba(0, 0, 0, 0.9);
   background-color: $body-background;
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 10px;
@@ -177,6 +177,7 @@ pre {
   word-wrap: normal;
   overflow: auto;
   overflow-y: hidden;
+  height: 100%;
 }
 
 code.highlighter-rouge {
