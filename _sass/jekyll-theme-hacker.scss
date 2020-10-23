@@ -100,8 +100,6 @@ header h2 {
 #main_content {
   width: 100%;
   -webkit-font-smoothing: antialiased;
-  height: 100%;
-  background-color: $body-background;
 }
 section img {
   max-width: 100%
@@ -152,13 +150,9 @@ dt {
 }
 
 ul li {
-  list-style-type: '>' ;
+  //list-style-image:url('../images/bullet.png');
+  list-style-type: '>';
 }
-/*
-ul li {
-  list-style-image:url('../images/bullet.png');
-}
-*/
 
 blockquote {
   color: $blockquote-color;
@@ -167,8 +161,7 @@ blockquote {
 }
 
 pre {
-  //background: rgba(0, 0, 0, 0.9);
-  background-color: $body-background;
+  background: rgba(0, 0, 0, 0.9);
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 10px;
   font-size: 16px;
@@ -177,7 +170,6 @@ pre {
   word-wrap: normal;
   overflow: auto;
   overflow-y: hidden;
-  height: 100%;
 }
 
 code.highlighter-rouge {
