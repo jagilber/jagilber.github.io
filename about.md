@@ -3,9 +3,9 @@ layout: default
 ---
 
 Jason Gilbertson  
-jagilber  
+Alias: jagilber  
 Company: Microsoft  
-Position: sr escalation engineer Azure Developer Support  
+Position: Sr Escalation Engineer Azure Developer Support  
 Location: Atlanta, Georgia  
 [linkedin](https://www.linkedin.com/in/jason-gilbertson)
 
@@ -25,9 +25,9 @@ Location: Atlanta, Georgia
 * Team Lead / Technical Advisor Microsoft RDS POD  
 * Subject Matter Expert for Microsoft Remote Desktop Services  
 * Subject Matter Expert for Windows Performance  
-* Provide gui interface for viewing and filtering log data with textfilter.exe  
+* Provided gui interface for viewing and filtering log data with textfilter.exe  
 * Team Lead / originator for Citrix XenDesktop Escalation  
-* Provide gui interface for configuration, collection, and viewing of ETW data with cdfmonitor.exe  
+* Provided gui interface for configuration, collection, and viewing of ETW data with cdfmonitor.exe  
 * Provided symbol and tmf infrastructure for internal and external use  
 * Team Lead that designed, implemented, and supported Citrix farm which consisted of 400 servers hosting 100 applications to over 10000 users  
 * Designed Windows NT and Windows 2000/2003 domain model  
@@ -96,8 +96,10 @@ Associate of Science (A.S.), Avionics Maintenance Technology / Technician
 ### Interests  
 
 * developing / debugging code  
+* troubleshooting
 * technology  
 * architecture  
 * travel  
 * cars  
 * aviation  
+* georgia bulldogs
