@@ -24,7 +24,6 @@ lightweight text parsing utility to quickly analyze logs with string and regex f
 ### PowerShell scripts  
 
 Sample collection of PowerShell scripts written since joining Microsoft. The scripts are mostly utility scripts to perform a certain action for troubleshooting Remote Desktop Services environments.  
-
 [https://github.com/jagilber/powershellScripts](https://github.com/jagilber/powershellScripts)  
 
 ### AfVmPowerMonitor  
@@ -35,13 +34,11 @@ C# Azure Function v2 to monitor, report, and take action to shutdown IaaS virtua
 ### Azure Quickstart Templates for Remote Desktop Services  
 
 Worked with RDS Product Group to create quickstart templates for Remote Desktop Services deployments in Azure.
-
 [https://github.com/Azure/rds-templates](https://github.com/Azure/rds-templates)  
 
 ### Technet Gallery  
 
 Top 1% contributor to technet gallery scripts and wiki.
-
 [technet](https://gallery.technet.microsoft.com/site/search?query=jagilber)
 
 ### CDFMonitor  
