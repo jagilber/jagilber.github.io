@@ -2,6 +2,8 @@
 @import "fonts";
 @import "rouge-base16-dark.scss";
 
+$cyan: #00bcd4;
+
 body {
   padding:0px 0 20px 0px;
   margin: 0px;
@@ -50,7 +52,7 @@ h3 {
 }
 
 a {
-  color:#ffcc00;
+  color: $cyan;
   font-weight:400;
   text-decoration:none;
 
@@ -87,7 +89,7 @@ section img {
 }
 
 blockquote {
-  border-left:3px solid #ffcc00;
+  border-left:3px solid $cyan;
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
