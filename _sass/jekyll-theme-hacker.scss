@@ -101,6 +101,7 @@ header h2 {
   width: 100%;
   -webkit-font-smoothing: antialiased;
   height: 100%;
+  background-color: $body-background;
 }
 section img {
   max-width: 100%
@@ -164,6 +165,7 @@ blockquote {
 
 pre {
   background: rgba(0, 0, 0, 0.9);
+  background-color: $body-background;
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 10px;
   font-size: 16px;
