@@ -10,6 +10,8 @@ layout: default
 ## Github repo contributions  
 
 [Service-Fabric-Troubleshooting-Guides](https://github.com/Azure/Service-Fabric-Troubleshooting-Guides)  
+[Service-Fabric-POA](https://github.com/Microsoft/Service-Fabric-POA)  
+[azure-powershell](https://github.com/Azure/azure-powershell)  
 [Tx](https://github.com/microsoft/Tx)  
 
 ## Github projects  
@@ -48,26 +50,27 @@ Comprehensive ETW tracing utility used for complete local and remote tracing man
 Jason Gilbertson  
 Alias: jagilber  
 Company: Microsoft  
-Position: Sr Escalation Engineer Azure Developer Support  
+Position: Senior Escalation Engineer Azure Developer Support  
 Location: Atlanta, Georgia  
 [linkedin](https://www.linkedin.com/in/jason-gilbertson)
 
 ### Summary of Qualifications  
 
 * Knowledge in Azure, Microsoft Windows OS, and Microsoft Infrastructure components  
+* Azure devops, CI / CD, git  
 * Ability to read, debug, and write in multiple programming languages  
 * Enterprise level technical and project design skills  
 * Trace analysis and debugging  
-* Hardware, software, virtualization and network troubleshooting 
+* Hardware, software, virtualization and network troubleshooting  
 * Team Leader with demonstrated ability to complete assigned tasks on time  
 
 ### Key Accomplishments  
 
-* Subject Matter Expert for Service Fabric  
+* Subject Matter Expert (SME) for Service Fabric  
 * Provide automated way of formatting and ingesting service fabric log data for analysis with collectsfdata.exe  
 * Team Lead / Technical Advisor Microsoft RDS POD  
-* Subject Matter Expert for Microsoft Remote Desktop Services  
-* Subject Matter Expert for Windows Performance  
+* SME for Microsoft Remote Desktop Services  
+* SME for Windows Performance  
 * Provided gui interface for viewing and filtering log data with textfilter.exe  
 * Team Lead / originator for Citrix XenDesktop Escalation  
 * Provided gui interface for configuration, collection, and viewing of ETW data with cdfmonitor.exe  
@@ -90,11 +93,20 @@ Location: Atlanta, Georgia
 ### Experience  
 
 #### **sr escalation engineer**
+Microsoft  
+September 2019 - Present Atlanta Georgia  
+
+* working on Azure devops certification
+* working towards TA for Service Fabric team  
+* mentoring new hires for Service Fabric team  
+* working with PG on Service Fabric supportability  
+
+#### **support escalation engineer**  
 
 Microsoft  
-September 2017 - Present Charlotte, Atlanta Georgia  
-* sr escalation engineer for Azure PaaS developer support  
-* Subject Matter Expert service fabric, Azure ARM  
+September 2017 - September 2019 Charlotte  
+
+* SME service fabric, Azure ARM  
 * Secondary skills in Azure IaaS, Azure storage, Azure Service Bus, Azure EventHub, network  
 * Working on service fabric utility CollectSFData / multiple internal and external scripts / documentation for public service fabric git TSG  
 * Provide developer support, debugging, trace analysis, and direction for case resolution  
@@ -104,8 +116,9 @@ September 2017 - Present Charlotte, Atlanta Georgia
 
 Microsoft  
 January 2016 -  September 2017 Charlotte, North Carolina Area  
+
 * Technical Advisor / Team Lead for Remote Desktop Services POD for North America  
-* Subject Matter Expert on Remote Desktop Services  
+* SME on Remote Desktop Services  
 * Secondary skills in Azure IaaS, Hyper-V, network  
 * Contributed to Azure QuickStart Templates for RDS with PG  
 * Worked on RDS documentation for CSS Wiki project  
@@ -118,8 +131,9 @@ January 2016 -  September 2017 Charlotte, North Carolina Area
 
 Microsoft  
 March 2014 - January 2016 (1 year 11 months) Charlotte, North Carolina Area  
+
 * Windows Server Performance / Reliability Team  
-* Subject Matter Expert on Windows Performance  
+* SME on Windows Performance  
 * Secondary skills in WMI, winrm, network  
 * Provided debugging / trace analysis / direction to team, other teams, frontline, and TAMs  
 * Created utilities / scripts for both internal and external use such as textFilter, powershell logmanwrapper  
