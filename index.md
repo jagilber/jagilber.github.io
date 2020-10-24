@@ -39,7 +39,7 @@ Worked with RDS Product Group to create quickstart templates for Remote Desktop 
 
 ### [Technet Gallery](https://gallery.technet.microsoft.com/site/search?query=jagilber)  
 
-Top 1% contributor to technet gallery scripts and wiki.
+Contributions to online community and for Microsoft support for some of my more popular scripts. Top 1% contributor to technet gallery scripts and wiki.  
 
 ### [CDFMonitor](https://github.com/citrix/CDFMonitor)  
 
@@ -92,7 +92,8 @@ Location: Atlanta, Georgia
 
 ### Experience  
 
-#### **sr escalation engineer**
+#### **senior escalation engineer**  
+
 Microsoft  
 September 2019 - Present Atlanta Georgia  
 
