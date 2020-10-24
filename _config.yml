@@ -9,6 +9,6 @@ include:
   - index.md
   - about.md
   - projects.md
-theme: jekyll-theme-midnight
+#theme: jekyll-theme-midnight
 show_downloads: false
 google_analytics:
