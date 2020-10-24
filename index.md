@@ -28,8 +28,11 @@ C# Azure Function v2 to monitor, report, and take action to shutdown IaaS virtua
 
 ### [netCore](https://github.com/jagilber/netCore)  
 
+Example .netCore MSAL authentication functions.  
+
 ### [sf-ps1](https://github.com/jagilber/sf-ps1)  
 
+Lab Service Fabric application using Powershell scripts to monitor cluster.  
 
 ### [Azure Quickstart Templates for Remote Desktop Services](https://github.com/Azure/rds-templates)  
 
@@ -70,7 +73,7 @@ Location: Atlanta, Georgia
 * Ability to read, debug, and write in multiple programming languages  
 * Enterprise level technical and project design skills  
 * Trace analysis and debugging  
-* Hardware, software, virtualization and network troubleshooting  
+* Hardware, software, virtualization, and network troubleshooting  
 * Team Leader with demonstrated ability to complete assigned tasks on time  
 
 ### Key Accomplishments  
