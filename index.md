@@ -11,7 +11,7 @@ layout: default
 
 ### [CollectSFData](https://github.com/Microsoft/CollectServiceFabricData)  
 
-C# multithread with REST, Async, custom task scheduler currently used internally by CSS and PG to download detailed service fabric logs from Azure storage accounts.  
+C# multithread with REST, Async, custom task scheduler currently used internally and externally to download detailed Service Fabric logs from Azure storage accounts.  
 Files can optionally be formatted into json for ingest into log analytics or kusto for analysis.  
 
 ### [TextFilter](https://github.com/jasonagilbertson/textFilter)  
@@ -79,7 +79,7 @@ Location: Atlanta, Georgia
 ### Key Accomplishments  
 
 * Subject Matter Expert (SME) for Service Fabric  
-* Provide automated way of formatting and ingesting service fabric log data for analysis with collectsfdata.exe  
+* Provide automated way of formatting and ingesting Service Fabric log data for analysis with collectsfdata.exe  
 * Team Lead / Technical Advisor Microsoft RDS POD  
 * SME for Microsoft Remote Desktop Services  
 * SME for Windows Performance  
@@ -120,9 +120,9 @@ September 2019 - Present Atlanta Georgia
 Microsoft  
 September 2017 - September 2019 Charlotte  
 
-* SME service fabric, Azure ARM  
+* SME Service Fabric, Azure ARM  
 * Secondary skills in Azure IaaS, Azure storage, Azure Service Bus, Azure EventHub, network  
-* Working on service fabric utility CollectSFData / multiple internal and external scripts / documentation for public service fabric git TSG  
+* Working on Service Fabric utility CollectSFData / multiple internal and external scripts / documentation for public Service Fabric git TSG  
 * Provide developer support, debugging, trace analysis, and direction for case resolution  
 * Work with product group on supportability issues and features  
 
