@@ -7,13 +7,6 @@ layout: default
 
 # Projects
 
-## Github repo contributions  
-
-[Service-Fabric-Troubleshooting-Guides](https://github.com/Azure/Service-Fabric-Troubleshooting-Guides)  
-[Service-Fabric-POA](https://github.com/Microsoft/Service-Fabric-POA)  
-[azure-powershell](https://github.com/Azure/azure-powershell)  
-[Tx](https://github.com/microsoft/Tx)  
-
 ## Github projects  
 
 ### [CollectSFData](https://github.com/Microsoft/CollectServiceFabricData)  
@@ -33,6 +26,11 @@ Sample collection of PowerShell scripts written since joining Microsoft. The scr
 
 C# Azure Function v2 to monitor, report, and take action to shutdown IaaS virtual machines and kusto clusters after specified enumerations.  
 
+### [netCore](https://github.com/jagilber/netCore)  
+
+### [sf-ps1](https://github.com/jagilber/sf-ps1)  
+
+
 ### [Azure Quickstart Templates for Remote Desktop Services](https://github.com/Azure/rds-templates)  
 
 Worked with RDS Product Group to create quickstart templates for Remote Desktop Services deployments in Azure.
@@ -44,6 +42,17 @@ Contributions to online community and for Microsoft support for some of my more 
 ### [CDFMonitor](https://github.com/citrix/CDFMonitor)  
 
 Comprehensive ETW tracing utility used for complete local and remote tracing management for Citrix issues.  
+
+## Github repo contributions  
+
+[Service-Fabric-Troubleshooting-Guides](https://github.com/Azure/Service-Fabric-Troubleshooting-Guides)  
+[Service-Fabric-POA](https://github.com/Microsoft/Service-Fabric-POA)  
+[azure-powershell](https://github.com/Azure/azure-powershell)  
+[Tx](https://github.com/microsoft/Tx)  
+[service-fabric-observer](https://github.com/jagilber/service-fabric-observer)  
+[azure-cli](https://github.com/jagilber/azure-cli)
+
+---
 
 # About
 
