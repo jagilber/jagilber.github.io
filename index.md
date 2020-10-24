@@ -20,7 +20,7 @@ lightweight text parsing utility to quickly analyze logs with string and regex f
 
 ### [PowerShell scripts](https://github.com/jagilber/powershellScripts)  
 
-Sample collection of PowerShell scripts written since joining Microsoft. The scripts are mostly utility scripts to perform a certain action for troubleshooting Remote Desktop Services environments.  
+Sample collection of PowerShell scripts written since joining Microsoft. The scripts are mostly utility scripts to perform a certain action for troubleshooting Azure and Service Fabric environments.  
 
 ### [AfVmPowerMonitor](https://github.com/jagilber/afVmPowerMonitor)  
 
