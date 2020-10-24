@@ -113,6 +113,7 @@ September 2019 - Present Atlanta Georgia
 * working towards TA for Service Fabric team  
 * mentoring new hires for Service Fabric team  
 * working with PG on Service Fabric supportability  
+* integrating collectsfdata with Azure Support Center for support  
 
 #### **support escalation engineer**  
 
