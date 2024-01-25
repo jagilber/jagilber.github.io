@@ -11,49 +11,37 @@ layout: default
 
 ### [CollectSFData](https://github.com/Microsoft/CollectServiceFabricData)  
 
-C# multithread with REST, Async, custom task scheduler currently used internally and externally to download detailed Service Fabric logs from Azure storage accounts.  
-Files can optionally be formatted into json for ingest into log analytics or kusto for analysis.  
+Project owner of C# multithread utility with REST, async, custom task scheduler currently used internally and externally to download detailed Service Fabric Event Trace Logs (ETL) from Azure storage accounts.  
+Files can optionally be formatted into json for ingest into log analytics or kusto for analysis.
 
-### [TextFilter](https://github.com/jasonagilbertson/textFilter)  
+### [Service-Fabric-Troubleshooting-Guides](https://github.com/Azure/Service-Fabric-Troubleshooting-Guides)
 
-lightweight text parsing utility to quickly analyze logs with string and regex filters. Filters can be shared for multiple users allowing quick sharing of information across team for newly identified issues.  
+Leading contributor to Service Fabric troubleshooting guides. Microsoft support and engineering teams use this repo to document and share troubleshooting information with customers.
 
 ### [PowerShell scripts](https://github.com/jagilber/powershellScripts)  
 
-Sample collection of PowerShell scripts written since joining Microsoft. The scripts are mostly utility scripts to perform a certain action for troubleshooting Azure and Service Fabric environments.  
+Sample collection of 100+ PowerShell scripts written since joining Microsoft. The scripts are mostly utility scripts to perform a certain action for troubleshooting Azure and Service Fabric environments.  
 
-### [AfVmPowerMonitor](https://github.com/jagilber/afVmPowerMonitor)  
+### [TextFilter](https://github.com/jasonagilbertson/textFilter)  
 
-C# Azure Function v2 to monitor, report, and take action to shutdown IaaS virtual machines and kusto clusters after specified enumerations.  
-
-### [netCore](https://github.com/jagilber/netCore)  
-
-Example .netCore MSAL authentication functions.  
-
-### [sf-ps1](https://github.com/jagilber/sf-ps1)  
-
-Lab Service Fabric application using Powershell scripts to monitor cluster.  
-
-### [Azure Quickstart Templates for Remote Desktop Services](https://github.com/Azure/rds-templates)  
-
-Worked with RDS Product Group to create quickstart templates for Remote Desktop Services deployments in Azure.
-
-### [Technet Gallery](https://gallery.technet.microsoft.com/site/search?query=jagilber)  
-
-Contributions to online community and for Microsoft support for some of my more popular scripts. Top 1% contributor to technet gallery scripts and wiki.  
+Lightweight C# text parsing utility to quickly analyze logs with string and regex filters. Filters can be shared for multiple users allowing quick sharing of information across team for newly identified issues.  
 
 ### [CDFMonitor](https://github.com/citrix/CDFMonitor)  
 
-Comprehensive ETW tracing utility used for complete local and remote tracing management for Citrix issues.  
+Comprehensive C# ETW/ETL tracing utility used for complete local and remote tracing management for Citrix issues.  
 
-## Github repo contributions  
+## Other Github repo contributions  
 
-[Service-Fabric-Troubleshooting-Guides](https://github.com/Azure/Service-Fabric-Troubleshooting-Guides)  
+[service-fabric-aad-helpers](https://github.com/Azure-Samples/service-fabric-aad-helpers)  
+[service-fabric-cluster-templates](https://github.com/Azure-Samples/service-fabric-cluster-templates)  
+[azure-docs](https://github.com/MicrosoftDocs/azure-docs)  
+[service-fabric-yarp](https://github.com/microsoft/service-fabric-yarp)  
+[service-fabric-dotnet-quickstart](https://github.com/Azure-Samples/service-fabric-dotnet-quickstart)  
 [Service-Fabric-POA](https://github.com/Microsoft/Service-Fabric-POA)  
 [azure-powershell](https://github.com/Azure/azure-powershell)  
 [Tx](https://github.com/microsoft/Tx)  
 [service-fabric-observer](https://github.com/jagilber/service-fabric-observer)  
-[azure-cli](https://github.com/jagilber/azure-cli)
+[azure-cli](https://github.com/jagilber/azure-cli)  
 
 ---
 
@@ -66,7 +54,7 @@ Position: Senior Escalation Engineer Azure Developer Support
 Location: Atlanta, Georgia  
 [linkedin](https://www.linkedin.com/in/jason-gilbertson)
 
-### Summary of Qualifications  
+### Summary of Qualifications
 
 * Knowledge in Azure, Microsoft Windows OS, and Microsoft Infrastructure components  
 * Azure devops, CI / CD, git  
@@ -173,4 +161,4 @@ Associate of Science (A.S.), Avionics Maintenance Technology / Technician
 * travel  
 * cars  
 * aviation  
-* georgia bulldogs  :)
+* georgia bulldogs
