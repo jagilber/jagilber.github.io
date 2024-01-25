@@ -144,6 +144,54 @@ March 2014 - January 2016 (1 year 11 months) Charlotte, North Carolina Area
 * Wrote blogs focusing Remote Desktop Services deployments and support  
 * Worked on internal projects improving case management  
 
+#### **principal escalation engineer**
+
+Citrix
+January 2012 - February 2014 (2 years 1 months)
+* Invited to participate Synergy 2013
+* Dedicated escalation engineer for multiple enterprise accounts
+* Mentored and provide training to escalation and frontline
+* Provided debugging/trace analysis/direction to escalation, frontline, TRMs, forums
+* Created utilities/services/scripts for both internal and external use such as CDFMonitor, BinaryDB, Session State Monitor, XenServer-Visionapp connector, symbol server scripts
+* Assigned cases and do weekly case reviews/reporting
+* Managed XenServer lab for Alpharetta and XenDesktop support
+ 
+#### **senior escalation engineer**
+
+Citrix
+November 2006 - December 2011 (5 years 2 months)
+* Resolved escalated customer issues for Citrix XenDesktop and XenApp products
+* Worked with Product Management and Core development teams for issue resolution
+* Used trace analysis, debugging tools, and source code on a daily basis
+* Wrote technically complex articles for both internal and external distribution
+* Worked on virtual project teams for developing technologies
+* Provided support for 1st and 2nd level support
+* Subject Matter Expert for XenDesktop
+ 
+#### **lead systems engineer**
+
+The Home Depot
+May 2005 - November 2006 (1 year 7 months)
+* Designed Citrix Farms Infrastructure with Presentation Server 4 for 3 farms and 400 servers with 3rd Level Support
+* Disaster Recovery, High Availability design
+* Designed and Implemented Virtual Server for QA environment
+* Designed and Implemented Active Directory configuration including OU and GPO design
+* Designed and certified Server Build, migration scripts
+* Automation for internal and support desk use with VB.Net and vbscripts
+ 
+#### **senior systems engineer**
+
+Delta Technology
+April 1991 - May 2005 (14 years 2 months)
+* Focused on automation, server build, Disaster Recovery, Cluster Server, Storage Area Networks, and blade technology
+* Designed enterprise Windows 2000/2003 infrastructure and developed standards
+* Authored Enterprise system documentation and training material
+* Lead engineer for Citrix Metaframe and associated applications
+* Provided Citrix infrastructure design which included Citrix Presentation Server, Citrix Web Interface, and Citrix Secure Gateway
+* Provided 3rd level support for all Microsoft Terminal Server and Citrix related issues
+* Created and maintained automated build for Terminal Server and Citrix Metaframe
+* Provide administration and migration scripts related to terminal server for 2nd level support
+
 ### Education  
 
 Clayton State University  
