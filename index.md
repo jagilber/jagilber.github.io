@@ -21,46 +21,6 @@ layout: default
 - Proficient in trace analysis, debugging, and troubleshooting across hardware, software, virtualization, and network environments
 - Demonstrated leadership abilities, consistently delivering results and completing tasks on time
 
-# Projects
-
-## Github projects  
-
-### [CollectSFData](https://github.com/Microsoft/CollectServiceFabricData)  
-
-Project owner of C# multithread utility with REST, async, custom task scheduler currently used internally and externally to download detailed Service Fabric Event Trace Logs (ETL) from Azure storage accounts.  
-Files can optionally be formatted into json for ingest into log analytics or kusto for analysis.
-
-### [Service-Fabric-Troubleshooting-Guides](https://github.com/Azure/Service-Fabric-Troubleshooting-Guides)
-
-Leading contributor to Service Fabric troubleshooting guides. Microsoft support and engineering teams use this repo to document and share troubleshooting information with customers.
-
-### [PowerShell scripts](https://github.com/jagilber/powershellScripts)  
-
-Sample collection of 100+ PowerShell scripts written since joining Microsoft. The scripts are mostly utility scripts to perform a certain action for troubleshooting Azure and Service Fabric environments.  
-
-### [TextFilter](https://github.com/jasonagilbertson/textFilter)  
-
-Lightweight C# text parsing utility to quickly analyze logs with string and regex filters. Filters can be shared for multiple users allowing quick sharing of information across team for newly identified issues.  
-
-### [CDFMonitor](https://github.com/citrix/CDFMonitor)  
-
-Comprehensive C# ETW/ETL tracing utility used for complete local and remote tracing management for Citrix issues.  
-
-## Other Github repo contributions  
-
-[service-fabric-aad-helpers](https://github.com/Azure-Samples/service-fabric-aad-helpers)  
-[service-fabric-cluster-templates](https://github.com/Azure-Samples/service-fabric-cluster-templates)  
-[azure-docs](https://github.com/MicrosoftDocs/azure-docs)  
-[service-fabric-yarp](https://github.com/microsoft/service-fabric-yarp)  
-[service-fabric-dotnet-quickstart](https://github.com/Azure-Samples/service-fabric-dotnet-quickstart)  
-[Service-Fabric-POA](https://github.com/Microsoft/Service-Fabric-POA)  
-[azure-powershell](https://github.com/Azure/azure-powershell)  
-[Tx](https://github.com/microsoft/Tx)  
-[service-fabric-observer](https://github.com/jagilber/service-fabric-observer)  
-[azure-cli](https://github.com/jagilber/azure-cli)  
-
----
-
 ## Key Accomplishments
 
 - **Troubleshooting:** Expert in troubleshooting Windows OS issues with demonstrated ability in collection, debugging, and log analysis.
@@ -216,3 +176,43 @@ April 1991 - May 2005 (14 years 2 months)
 - Cars
 - Aviation
 - Georgia Bulldogs
+
+# Projects
+
+## Github projects  
+
+### [CollectSFData](https://github.com/Microsoft/CollectServiceFabricData)  
+
+Project owner of C# multithread utility with REST, async, custom task scheduler currently used internally and externally to download detailed Service Fabric Event Trace Logs (ETL) from Azure storage accounts.  
+Files can optionally be formatted into json for ingest into log analytics or kusto for analysis.
+
+### [Service-Fabric-Troubleshooting-Guides](https://github.com/Azure/Service-Fabric-Troubleshooting-Guides)
+
+Leading contributor to Service Fabric troubleshooting guides. Microsoft support and engineering teams use this repo to document and share troubleshooting information with customers.
+
+### [PowerShell scripts](https://github.com/jagilber/powershellScripts)  
+
+Sample collection of 100+ PowerShell scripts written since joining Microsoft. The scripts are mostly utility scripts to perform a certain action for troubleshooting Azure and Service Fabric environments.  
+
+### [TextFilter](https://github.com/jasonagilbertson/textFilter)  
+
+Lightweight C# text parsing utility to quickly analyze logs with string and regex filters. Filters can be shared for multiple users allowing quick sharing of information across team for newly identified issues.  
+
+### [CDFMonitor](https://github.com/citrix/CDFMonitor)  
+
+Comprehensive C# ETW/ETL tracing utility used for complete local and remote tracing management for Citrix issues.  
+
+## Other Github repo contributions  
+
+[service-fabric-aad-helpers](https://github.com/Azure-Samples/service-fabric-aad-helpers)  
+[service-fabric-cluster-templates](https://github.com/Azure-Samples/service-fabric-cluster-templates)  
+[azure-docs](https://github.com/MicrosoftDocs/azure-docs)  
+[service-fabric-yarp](https://github.com/microsoft/service-fabric-yarp)  
+[service-fabric-dotnet-quickstart](https://github.com/Azure-Samples/service-fabric-dotnet-quickstart)  
+[Service-Fabric-POA](https://github.com/Microsoft/Service-Fabric-POA)  
+[azure-powershell](https://github.com/Azure/azure-powershell)  
+[Tx](https://github.com/microsoft/Tx)  
+[service-fabric-observer](https://github.com/jagilber/service-fabric-observer)  
+[azure-cli](https://github.com/jagilber/azure-cli)  
+
+---
