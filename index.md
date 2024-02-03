@@ -2,184 +2,56 @@
 layout: default
 ---
 
-[projects](#projects)  
-[about](#about)  
-
-# Jason Gilbertson
-
 - **Alias:** jagilber
 - **Company:** Microsoft
 - **Position:** Senior Escalation Engineer, Azure Developer Support
 - **Location:** Atlanta, Georgia
-- **LinkedIn:** [Jason Gilbertson on LinkedIn](https://www.linkedin.com/in/jason-gilbertson)
+- **LinkedIn:** [linkedin.com/in/jason-gilbertson](https://www.linkedin.com/in/jason-gilbertson)
 
-## Summary of Qualifications
+## Summary
 
-- Experienced professional with expertise in Azure, Microsoft Windows OS, and Microsoft Infrastructure components
-- Proficient in Azure DevOps, CI/CD, and Git, with a strong ability to read, debug, and write in multiple programming languages
-- Skilled in leading enterprise-level technical projects and design
-- Proficient in trace analysis, debugging, and troubleshooting across hardware, software, virtualization, and network environments
-- Demonstrated leadership abilities, consistently delivering results and completing tasks on time
+Experienced Azure and Microsoft Technologies professional with a strong background in development support, troubleshooting, and project leadership. Skilled in a wide range of programming languages, debugging techniques, and Azure services, with a proven track record of improving product supportability and customer satisfaction.
 
-## Key Accomplishments
+## Skills
 
-- **Troubleshooting:** Expert in troubleshooting Windows OS issues with demonstrated ability in collection, debugging, and log analysis.
-- **Automation:** Deep knowledge of automation of Azure and Windows using PowerShell and .net
-- **Service Fabric:** Recognized as a Subject Matter Expert (SME) for Service Fabric, demonstrating advanced skills in automated log data analysis and formatting with collectsfdata.exe.
-- **Technical Documentation:** Authored technical documentation and training material for Citrix Metaframe and associated applications, contributing to knowledge sharing and best practices.
-- **Technical Advisor:** Led the Microsoft RDS POD team, providing technical guidance and contributing to significant improvements in Remote Desktop Services (RDS) supportability.
-- **Remote Desktop Services:** Established SME status for Microsoft Remote Desktop Services and Windows Performance, providing valuable insights and solutions for complex technical challenges.
-- **.net Gui Development:** Designed and implemented user-friendly GUI interfaces for log data viewing and filtering, enhancing the usability and effectiveness of log analysis tools.
-- **Citrix:** Led the Citrix XenDesktop Escalation team, successfully designing, implementing, and supporting a large-scale Citrix farm hosting critical applications for thousands of users.
-- **Large-scale System Design:** Led the design and implementation of a Citrix farm hosting 100 applications for over 10,000 users, demonstrating strong architectural and project management skills.
-- **Infrastructure Design:** Contributed to the design of Windows NT and Windows 2000/2003 domain models, ensuring robust and scalable infrastructure solutions.
-- **Server Management:** Played a key role in the design and maintenance of server builds, ensuring optimal performance and reliability for a large server infrastructure.
-- **Cross-team Collaboration:** Collaborated across teams to improve the supportability of Remote Desktop Services (RDS), demonstrating effective communication and teamwork skills.
-
-
-## Technical Summary
-
-- **Operating Systems:** Windows (all versions), some Linux
-- **Programming Languages:** C#, PowerShell, some C, Git, ARM templates
-- **Debugging Skills:** C#, C++, C, PowerShell, ARM templates
-- **Products:** Azure, Windows OS, Service Fabric, Remote Desktop Services, other PaaS and IaaS products
-- **Internal Tools:** Windbg, Idna, ETW, Windows Performance Analyzer, Kusto, Jarvis
-- **External Tools:** Visual Studio, VSCode, Wireshark/Netmon, Git, Postman, dotPeek, Azure DevOps, Log Analytics, Sysinternals tools
-- **Other Skills:** JSON, REST, async, threading, tasks, XML, XAML, some YAML
+- **Operating Systems:** Windows, some Linux
+- **Languages:** C#, PowerShell, some C, Git, ARM templates
+- **Debugging:** Windbg, Visual Studio, VS Code, Wireshark, Windows Performance Analyzer
+- **DevOps:** Azure DevOps, CI/CD, Git
+- **Cloud:** Azure (IaaS, PaaS, Service Fabric, ARM)
+- **Tools:** Sysinternals, Postman, dotPeek, Kusto, Jarvis
 
 ## Experience
 
-### Senior Escalation Engineer
+### Senior Escalation Engineer, Microsoft - Atlanta, Georgia
 
-Microsoft  
-September 2019 - Present  
-Atlanta, Georgia
+*September 2019 - Present*
 
-- Subject Matter Expert (SME) for Service Fabric
-- Provide developer support, debugging, trace analysis, and case resolution guidance
-- Working on AI certification
-- Maintaining Azure DevOps Expert certification
-- Leading contributor to Service Fabric troubleshooting guides and Microsoft Docs
-- Mentor new hires for the Service Fabric team
-- Collaborate with the product group and provide solutions on Service Fabric supportability
-- Maintain and improve `collectsfdata` with new features and bug fixes as well as SDL and security reviews
-- Integrated `collectsfdata` with internal backend system for support and engineering
+- Acted as SME for Service Fabric, authoring troubleshooting guides and improving Service Fabric supportability.
+- Led the integration of `collectsfdata` utility with internal systems, enhancing support and engineering capabilities.
+- Mentored new hires and contributed to Azure DevOps Expert certification programs.
 
-### Support Escalation Engineer
+### Support Escalation Engineer, Microsoft - Charlotte, North Carolina Area
 
-Microsoft  
-September 2017 - September 2019  
-Charlotte, North Carolina Area
+*September 2017 - September 2019*
 
-- SME for Service Fabric and Azure ARM
-- Proficient in Azure IaaS, Azure Storage, Azure Service Bus, Azure EventHub, and networking
-- Developed Service Fabric utility `collectsfdata` and multiple internal and external scripts for public Service Fabric git TSG
-- Provided developer support, debugging, trace analysis, and case resolution guidance
-- Collaborated with the product group on supportability issues and features
+- Provided expert guidance on Azure IaaS, Storage, and networking, developing critical utilities like `collectsfdata`.
+- Collaborated with product groups to address supportability issues and create documentation for Azure ARM.
 
-### Technical Advisor
+### Technical Advisor, Microsoft - Charlotte, North Carolina Area
 
-Microsoft  
-January 2016 - September 2017  
-Charlotte, North Carolina Area
+*January 2016 - September 2017*
 
-- Technical Advisor/Team Lead for Remote Desktop Services POD for North America
-- SME on Remote Desktop Services with secondary skills in Azure IaaS, Hyper-V, and networking
-- Contributed to Azure QuickStart Templates for RDS with the product group
-- Worked on RDS documentation for CSS Wiki project
-- Collaborated across teams to improve RDS supportability
-- Mentored, documented, and provided training across teams for RDS
-- Provided debugging, trace analysis, and case resolution guidance
-- Created utilities/scripts for internal and external use
-
-### Support Escalation Engineer
-
-Microsoft  
-March 2014 - January 2016 (1 year 11 months)  
-Charlotte, North Carolina Area
-
-- Windows Server Performance/Reliability Team
-- SME on Windows Performance with secondary skills in WMI, WinRM, and networking
-- Provided debugging, trace analysis, and direction to team, other teams, frontline, and TAMs
-- Created utilities/scripts for both internal and external use such as `textFilter`, PowerShell `logmanwrapper`
-- Mentored and provided training to the team and Frontline
-- Worked across teams to improve the supportability of Remote Desktop Services
-- Wrote blogs focusing on Remote Desktop Services deployments and support
-- Worked on internal projects improving case management
-
-### Principal Escalation Engineer
-
-Citrix  
-January 2012 - February 2014 (2 years 1 month)
-
-- Participated in Citrix Synergy 2013
-- Dedicated escalation engineer for multiple enterprise accounts
-- Mentored and provided training to escalation and frontline
-- Provided debugging, trace analysis, and direction to escalation, frontline, TRMs, forums
-- Created utilities/services/scripts for both internal and external use such as `CDFMonitor`, `BinaryDB`, `Session State Monitor`, `XenServer-Visionapp connector`, symbol server scripts
-- Assigned cases and did weekly case reviews/reporting
-- Managed XenServer lab for Alpharetta and XenDesktop support
-
-### Senior Escalation Engineer
-
-Citrix  
-November 2006 - December 2011 (5 years 2 months)
-
-- Resolved escalated customer issues for Citrix XenDesktop and XenApp products
-- Worked with Product Management and Core development teams for issue resolution
-- Used trace analysis, debugging tools, and source code on a daily basis
-- Wrote technically complex articles for both internal and external distribution
-- Worked on virtual project teams for developing technologies
-- Provided support for 1st and 2nd level support
-- Subject Matter Expert for XenDesktop
-
-### Lead Systems Engineer
-
-The Home Depot  
-May 2005 - November 2006 (1 year 7 months)
-
-- Designed Citrix Farms Infrastructure with Presentation Server 4 for 3 farms and 400 servers with 3rd Level Support
-- Disaster Recovery, High Availability design
-- Designed and Implemented Virtual Server for QA environment
-- Designed and Implemented Active Directory configuration including OU and GPO design
-- Designed and certified Server Build, migration scripts
-- Automation for internal and support desk use with VB.Net and VBScripts
-
-### Senior Systems Engineer
-
-Delta Technology  
-April 1991 - May 2005 (14 years 2 months)
-
-- Focused on automation, server build, Disaster Recovery, Cluster Server, Storage Area Networks, and blade technology
-- Designed enterprise Windows 2000/2003 infrastructure and developed standards
-- Authored Enterprise system documentation and training material
-- Lead engineer for Citrix Metaframe and associated applications
-- Provided Citrix infrastructure design which included Citrix Presentation Server, Citrix Web Interface, and Citrix Secure Gateway
-- Provided 3rd level support for all Microsoft Terminal Server and Citrix related issues
-- Created and maintained automated build for Terminal Server and Citrix Metaframe
-- Provided administration and migration scripts related to terminal server for 2nd level support
+- Led the Remote Desktop Services POD, improving RDS documentation, and cross-team collaboration on supportability.
+- Created utilities and scripts enhancing RDS deployments and support workflows.
 
 ## Education
 
-- **Clayton State University**
-  - Bachelor of Applied Science (B.A.Sc.), Technology Management
-- **Clayton State University**
-  - Associate of Science (A.S.), Avionics Maintenance Technology / Technician
+- **B.A.Sc., Technology Management**, Clayton State University
+- **A.S., Avionics Maintenance Technology**, Clayton State University
 
-## Interests
 
-- Developing/debugging code
-- Troubleshooting
-- Technology
-- Architecture
-- Travel
-- Cars
-- Aviation
-- Georgia Bulldogs
-
-# Projects
-
-## Github projects  
+## Projects
 
 ### [CollectSFData](https://github.com/Microsoft/CollectServiceFabricData)  
 
@@ -214,5 +86,9 @@ Comprehensive C# ETW/ETL tracing utility used for complete local and remote trac
 [Tx](https://github.com/microsoft/Tx)  
 [service-fabric-observer](https://github.com/jagilber/service-fabric-observer)  
 [azure-cli](https://github.com/jagilber/azure-cli)  
+
+## Interests
+
+Developing/debugging code, AI, Architecture, Aviation, Cars, Travel, Georgia Bulldogs.
 
 ---
