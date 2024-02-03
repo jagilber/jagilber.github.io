@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-[projects](#summary)  
-[projects](#skills)  
-[projects](#experience)  
+[summary](#summary)  
+[skills](#skills)  
+[experience](#experience)  
 [projects](#projects)  
 
 - **Alias:** jagilber
