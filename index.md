@@ -19,11 +19,11 @@ Experienced Azure and Microsoft Technologies professional with a strong backgrou
 ## Skills
 
 - **Operating Systems:** Windows, some Linux
-- **Languages:** C#, PowerShell, some C, Git, ARM templates
-- **Debugging:** Windbg, Visual Studio, VS Code, Wireshark, Windows Performance Analyzer
-- **DevOps:** Azure DevOps, CI/CD, Git
+- **Languages:** C#, PowerShell, Kusto Query Language (KQL), able to debug C, C++
+- **Debugging:** Windbg, Visual Studio, VS Code, Event Tracing for Windows (ETW/ETL), Windows Performance Analyzer
+- **DevOps:** Azure DevOps, Git, ARM, YAML, Agile, CI/CD
 - **Cloud:** Azure (IaaS, PaaS, Service Fabric, ARM)
-- **Tools:** Sysinternals, Postman, dotPeek, Kusto, Jarvis
+- **Tools:** Sysinternals, Postman, dotPeek, Kusto, Jarvis, WireShark
 
 ## Experience
 
