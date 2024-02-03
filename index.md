@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+[projects](#summary)  
+[projects](#skills)  
+[projects](#experience)  
+[projects](#projects)  
 
 - **Alias:** jagilber
 - **Company:** Microsoft
@@ -23,33 +27,85 @@ Experienced Azure and Microsoft Technologies professional with a strong backgrou
 
 ## Experience
 
-### Senior Escalation Engineer, Microsoft - Atlanta, Georgia
+### Senior Escalation Engineer
 
-*September 2019 - Present*
+**Microsoft**
+_September 2019 - Present_
+Atlanta, Georgia
 
-- Acted as SME for Service Fabric, authoring troubleshooting guides and improving Service Fabric supportability.
-- Led the integration of `collectsfdata` utility with internal systems, enhancing support and engineering capabilities.
-- Mentored new hires and contributed to Azure DevOps Expert certification programs.
+- Serve as a Subject Matter Expert (SME) for Service Fabric, guiding both product improvement and user support strategies.
+- Spearhead the development of Service Fabric’s troubleshooting guides and contributions to Microsoft Docs, substantially improving resource availability for developers.
+- Achieved Azure DevOps Expert certification and currently pursuing AI certification, demonstrating an ongoing commitment to technical proficiency and innovation.
+- Lead the design and implementation of new features and security enhancements for collectsfdata tool, significantly improving its functionality and reliability.
+- Mentor and onboard new Service Fabric team members, fostering a collaborative and knowledgeable team environment.
+- Facilitate productive collaboration between support teams and the product group, driving improvements in Service Fabric supportability and feature sets.
 
-### Support Escalation Engineer, Microsoft - Charlotte, North Carolina Area
+### Support Escalation Engineer
 
-*September 2017 - September 2019*
+**Microsoft**
+_September 2017 - September 2019_
+Charlotte, North Carolina Area
 
-- Provided expert guidance on Azure IaaS, Storage, and networking, developing critical utilities like `collectsfdata`.
-- Collaborated with product groups to address supportability issues and create documentation for Azure ARM.
+- Recognized as an SME for Service Fabric and Azure ARM, consistently delivering expert analysis and resolution for complex issues.
+- Created and maintained critical developer tools, including the Service Fabric utility collectsfdata, enhancing support operations and customer satisfaction.
+- Developed comprehensive debugging, trace analysis, and case resolution processes, significantly improving resolution times and developer support quality.
 
-### Technical Advisor, Microsoft - Charlotte, North Carolina Area
+### Technical Advisor
 
-*January 2016 - September 2017*
+**Microsoft**
+_January 2016 - September 2017_
+Charlotte, North Carolina Area
 
-- Led the Remote Desktop Services POD, improving RDS documentation, and cross-team collaboration on supportability.
-- Created utilities and scripts enhancing RDS deployments and support workflows.
+- Led Remote Desktop Services POD for North America as Technical Advisor/Team Lead, improving service quality and team performance.
+- Worked closely with the product group to contribute to Azure QuickStart Templates for RDS, enhancing tool accessibility for developers.
+- Instituted cross-team mentoring and training programs for RDS, elevating the overall expertise within customer support teams.
+
+### Support Escalation Engineer
+
+**Microsoft**
+March 2014 - January 2016
+Charlotte, North Carolina Area
+
+- Served as a Windows Server Performance/Reliability SME, driving improvements in support workflows and diagnostics tools.
+- Developed and disseminated critical utilities and scripts, like extFilter and PowerShell logmanwrapper, streamlining processes for internal and external stakeholders.
+- Facilitated interdisciplinary collaboration to enhance Remote Desktop Services supportability, leading to more efficient problem resolution.
+
+### Principal Escalation Engineer
+
+**Citrix**
+January 2012 - February 2014
+
+- Engaged as a key participant in Citrix Synergy 2013, showcasing expert knowledge and innovations in Citrix technologies.
+- Developed essential utilities and services such as CDFMonitor and Session State Monitor, enhancing diagnostics and monitoring capabilities for enterprise accounts.
+
+### Senior Escalation Engineer
+
+**Citrix**
+November 2006 - December 2011
+
+- Led resolution efforts for escalated customer issues with Citrix XenDesktop and XenApp, becoming a pivotal SME for XenDesktop.
+- Authored and disseminated high-value technical articles, contributing significantly to the knowledge base accessible to customers and internal teams alike.
+
+### Lead Systems Engineer
+
+**The Home Depot**
+May 2005 - November 2006
+
+- Engineered a comprehensive Citrix Farms Infrastructure design, enhancing disaster recovery and high availability across multiple server farms.
+- Implemented automation and scripting solutions to streamline server build and QA environment setup, improving efficiency and reliability.
+
+### Senior Systems Engineer
+
+**Delta Technology**
+April 1991 - May 2005
+
+- Spearheaded enterprise infrastructure projects focusing on automation, server build, and DR strategies, substantially lifting the organization’s IT infrastructure capabilities.
+- Authored extensive system documentation and training materials, leading educational efforts that elevated team competencies and system reliability.
 
 ## Education
 
 - **B.A.Sc., Technology Management**, Clayton State University
 - **A.S., Avionics Maintenance Technology**, Clayton State University
-
 
 ## Projects
 
